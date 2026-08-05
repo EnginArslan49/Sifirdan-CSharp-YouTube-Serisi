@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Engin ARSLAN\\Desktop\\Youtube-C#-Egitimi\\001-AppFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8F42358-C4D7-4EC9-B252-DF0C2D7EA9DB}|001-AppFirst\\001-AppFirst.csproj|c:\\users\\engin arslan\\desktop\\youtube-c#-egitimi\\001-appfirst\\001-appfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8F42358-C4D7-4EC9-B252-DF0C2D7EA9DB}|001-AppFirst\\001-AppFirst.csproj|solutionrelative:001-appfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3CF3FF4-2B75-4B04-887D-5CC2F4A1532F}|001-AppFirst\\001-AppFirst.csproj|c:\\users\\engin arslan\\desktop\\youtube-c#-egitimi\\001-appfirst\\001-appfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CF3FF4-2B75-4B04-887D-5CC2F4A1532F}|001-AppFirst\\001-AppFirst.csproj|solutionrelative:001-appfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,9 +40,9 @@
               "RelativeDocumentMoniker": "001-AppFirst\\Program.cs",
               "ToolTip": "C:\\Users\\Engin ARSLAN\\Desktop\\Youtube-C#-Egitimi\\001-AppFirst\\001-AppFirst\\Program.cs",
               "RelativeToolTip": "001-AppFirst\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T12:20:04.921Z",
+              "WhenOpened": "2026-08-05T17:01:34.944Z",
               "EditorCaption": ""
             }
           ]

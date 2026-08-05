@@ -1,9 +1,12 @@
-# SIFIRDAN C# EĞİTİMİ (YOUTUBE)
+SIFIRDAN C# EĞİTİMİ (YOUTUBE)
 ──────────────────────────────────────────────
 Eğitmen: Engin ARSLAN
 	İLETİŞİM
 E-posta : arslanengin3175@gmail.com
 Telefon  : +90 542 272 3175
+
+⚠️ (DİKKAT) ÖNEMLİ NOT: Bu eğitim boyunca projeler .NET 8.0 versiyonu ile oluşturulacaktır!
+📌: Projeleri önce derleyip ardından çalıştırınız!
 
 Bu repository, YouTube'da yayınlanan "Sıfırdan C# Eğitimi" serisinde geliştirilen tüm örnek uygulamaları, ders projelerini ve kaynak kodlarını içermektedir.
 

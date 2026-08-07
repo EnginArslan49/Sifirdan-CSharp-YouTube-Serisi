@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Engin ARSLAN\\Desktop\\Youtube-C#-Egitimi\\004-VeriTipiDonusumleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05D46C8E-0BCD-4A2D-9D09-A67B45FDC49E}|004-VeriTipiDonusumleri\\004-VeriTipiDonusumleri.csproj|c:\\users\\engin arslan\\desktop\\youtube-c#-egitimi\\004-veritipidonusumleri\\004-veritipidonusumleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D46C8E-0BCD-4A2D-9D09-A67B45FDC49E}|004-VeriTipiDonusumleri\\004-VeriTipiDonusumleri.csproj|solutionrelative:004-veritipidonusumleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 78,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Engin ARSLAN\\Desktop\\Youtube-C#-Egitimi\\004-VeriTipiDonusumleri\\004-VeriTipiDonusumleri\\Program.cs",
+              "RelativeDocumentMoniker": "004-VeriTipiDonusumleri\\Program.cs",
+              "ToolTip": "C:\\Users\\Engin ARSLAN\\Desktop\\Youtube-C#-Egitimi\\004-VeriTipiDonusumleri\\004-VeriTipiDonusumleri\\Program.cs",
+              "RelativeToolTip": "004-VeriTipiDonusumleri\\Program.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T10:52:16.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 446,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

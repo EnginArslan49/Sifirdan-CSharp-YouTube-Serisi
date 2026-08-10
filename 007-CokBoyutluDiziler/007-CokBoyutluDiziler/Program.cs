@@ -84,7 +84,7 @@ int[,] ilkDizim = new int[,]
 };
 
 // Yukarıdaki dizinin 1,1 indexindeki değeri nedir?
-Console.WriteLine( ilkDizim[1,1] );  // 1
+Console.WriteLine( ilkDizim[1,1] );  // 6
 
 // Tanımlanmış olduğumuz ilkDizim adlı çok boyutlu dizideki 832 sayısını ekrana yazdıralım
 Console.WriteLine( ilkDizim[2, 0] );

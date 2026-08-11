@@ -9,11 +9,11 @@
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 78,
+          "DockedHeight": 888,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "009-AtamaOperatorleri\\Program.cs",
               "ToolTip": "C:\\Users\\Engin ARSLAN\\Desktop\\Youtube-C#-Egitimi\\009-AtamaOperatorleri\\009-AtamaOperatorleri\\Program.cs",
               "RelativeToolTip": "009-AtamaOperatorleri\\Program.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAANYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-11T09:26:47.895Z",
               "EditorCaption": ""
@@ -48,9 +48,13 @@
           ]
         },
         {
-          "DockedWidth": 446,
+          "DockedHeight": 200,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"

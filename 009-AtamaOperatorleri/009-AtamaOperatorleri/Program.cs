@@ -114,7 +114,7 @@ Console.WriteLine(sayi1); // 90
 
 
 
-
+/*
 int deger1 = 123;
 int deger2 = 25;
 
@@ -127,3 +127,88 @@ deger1 %= deger2; // 123 % 25 = 23
 // Bu satırda artık deger2 değişkenimin değeri 23 olacaktır
 
 Console.WriteLine(deger1); // 23
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+    ARTTIRMA VE AZALTMA OPERATÖRLERİ:
+
+    ++X → ÖNCEDEN artırma
+          Değişkenin değeri önce 1 artırılır, ardından kullanılır.
+
+    X++ → Sonradan artırma
+          Değişkenin mevcut değeri kullanılır, ardından 1 artırılır.
+
+    --X → ÖNCEDEN azaltma
+          Değişkenin değeri önce 1 azaltılır, ardından kullanılır.
+
+    X-- → Sonradan azaltma
+          Değişkenin mevcut değeri kullanılır, ardından 1 azaltılır.
+*/
+
+
+
+/*
+int sayi = 5;
+
+int sayi2 = sayi++;
+
+// sayi2 değişkenimiz 5, sayi değişkenimiz ise 6 değerini almış olacaktır.
+Console.WriteLine($"sayi değişkenimizin değeri: {sayi}"); // 6
+
+Console.WriteLine($"sayi2 değişkenimizin değeri: {sayi2}"); // 5
+*/
+
+
+
+/*
+int sayi = 5;
+
+int sayi2 = ++sayi;
+// sayi2: 6
+// sayi: 6
+
+Console.WriteLine($"sayi değişkenimizin değeri: {sayi}"); // 6
+
+Console.WriteLine($"sayi2 değişkenimizin değeri: {sayi2}"); // 6
+*/
+
+
+
+
+/*
+int sayi = 5;
+
+int sayi2 = sayi--;
+// sayi2: 5
+// sayi: 5 - 1 = 4
+
+Console.WriteLine($"sayi değişkenimizin değeri: {sayi}"); // 4
+
+Console.WriteLine($"sayi2 değişkenimizin değeri: {sayi2}"); // 5
+*/
+
+int sayi = 5;
+
+int sayi2 = --sayi;
+
+// sayi: 4
+// sayi2: 5 - 1 = 4
+
+
+Console.WriteLine($"sayi değişkenimizin değeri: {sayi}"); // 4
+
+Console.WriteLine($"sayi2 değişkenimizin değeri: {sayi2}"); // 4 

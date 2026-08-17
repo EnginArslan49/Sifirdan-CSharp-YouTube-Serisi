@@ -45,21 +45,28 @@
     TRUE - TRUE : true
     TRUE - FALSE : false
     FALSE - TRUE: false
-*/
-
-/*
-Console.WriteLine( true && true ); // true
-
-Console.WriteLine( true && false && true ); // false
-
-Console.WriteLine( false && true && true ); // false
 
 
-Console.WriteLine( (5 == 5) && (7 != 5) ); // true && true : true
 
-Console.WriteLine( (5 == 5) && (7 != 7) ); // true && false : false
+Console.WriteLine( true && true ); // True
 
-Console.WriteLine( (7 != 7) && true ); // false && true: false
+Console.WriteLine( true && false ); // False
+
+Console.WriteLine(false && true); // False
+
+
+
+Console.WriteLine( (5 == 5) && (5 != 8) ); // True + True : True
+
+
+Console.Write( (7 > 5) && (8 < 7) ); // True + False : False
+
+Console.Write("\n");
+
+Console.WriteLine( (7 > 9) && (109 <= 109) ); // False + True : False
+
+
+Console.Write("Kelime 1\tKelime 2"); // Kelime 1        Kelime 2
 */
 
 
@@ -73,29 +80,33 @@ Console.WriteLine( (7 != 7) && true ); // false && true: false
 
     Koşullardan en az birinin doğru olup olmadığını kontrol eder.
 
-    Koşullardan en az biri true ise sonuç true olur.
+     !!! Koşullardan en az biri true ise sonuç true olur.
 
     Tüm koşullar false ise sonuç false olur.
 
 
 
-Console.WriteLine( true || true ); // true
+Console.WriteLine( true || true ); // True
 
-Console.WriteLine(true || false); // true
+Console.WriteLine(true || false); // True
 
-Console.WriteLine(false || false); // false
+Console.WriteLine(false || true); // True
 
-
-Console.WriteLine( (5 == 5) || true ); // true || true : true
-
-Console.WriteLine( (5 != 5) || (5 == 5) );  // false || true : true
-
-Console.WriteLine( (5 == 5) || (5 != 5) );  // true || false : true
+Console.WriteLine(false || false); // False
 
 
-Console.WriteLine(false || false); // : false
-Console.WriteLine( (7 != 7) || (5 != 5) ); // false || false : false
+
+Console.WriteLine( (5 > 4) || (6 != 3) || false ); // True + True + False : True
+
+Console.WriteLine(false || (6 != 3) || false); // False + True + False : True
+
+Console.WriteLine(false || false || false || false || false || false || false || false || false || false || false || false || false || false || false || false || false); // Tüm koşulların sonucunun false olmasından dolayı sonucumuz False değerini alacaktır
+
+
+Console.WriteLine( (6 < 4) || (6 >= 9) ); // False + False : False
 */
+
+
 
 
 
@@ -108,39 +119,41 @@ Console.WriteLine( (7 != 7) || (5 != 5) ); // false || false : false
 
     true olan bir ifadeyi false,
 
-    false olan bir ifadeyi true
-
-    yapar.
+    false olan bir ifadeyi true yapar.
 
 
+Console.WriteLine( !true );
 
-Console.WriteLine( !(true) ); // False
-Console.WriteLine( !true ); // False
+Console.WriteLine( !false );
 
-Console.WriteLine( !(false) ); // True
-Console.WriteLine( !false );   // True
+
+
+
+Console.WriteLine( !(5 < 6) );
 */
+Console.WriteLine( !(5 < 6 && 5 > 6) ); // (True && False) : False değerini getirir ve değil operatörü olmuş olduğundan dolayı False değerini tersine çevirerek True değerini verir.
 
 
-Console.WriteLine( !(5 == 5) );
 
-Console.WriteLine( !(5 != 5) );
+
+
+
 
 
 
 
 
 /*
-   ------------------------------------------------------------
+    ------------------------------------------------------------
         MANTIKSAL OPERATÖRLERİN ÖZETİ
     ------------------------------------------------------------
 
-    &&  → VE
+    && (Kısayolu: Shift + 6)  → VE
           Tüm koşulların true olması gerekir.
 
-    ||  → VEYA
+    || (Kısayolu: Alt Gr + Shift tuşunun yanındaki büyüktür-küçüktür tuşu)  → VEYA
           En az bir koşulun true olması gerekir.
 
-    !   → DEĞİL
+    ! (Kısayolu: Shift + 1)  → DEĞİL
           Sonucu tersine çevirir.
 */
